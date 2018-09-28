@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(http://bgfons.com/uploads/paint/paint_texture2182.jpg);
+}
+@media (max-width: 960px) {
+  .GameChat { display:  none !IMPORTANT; }
+}
